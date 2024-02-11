@@ -59,7 +59,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Diploi Next.js To-Ddo App</title>
+        <title>Diploi Next.js To-Dd App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
