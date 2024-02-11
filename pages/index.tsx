@@ -59,7 +59,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Diploi Next.js To-Do App</title>
+        <title>Diploi Next.js To-Ddo App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -87,7 +87,7 @@ const Home: NextPage = () => {
           <p>
             You are looking at a <a href="#">Next.js To-Do example</a> for{' '}
             <a href="https://diploi.dev">DiploiXXX</a>,<br />
-            
+
             the easy-to-use app development platform.
           </p>
         </footer>
