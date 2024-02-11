@@ -86,7 +86,8 @@ const Home: NextPage = () => {
         <footer className={styles.footer}>
           <p>
             You are looking at a <a href="#">Next.js To-Do example</a> for{' '}
-            <a href="https://diploi.dev">DiploiXXX</a>,<br />
+            <a href="https://diploi.dev">DiplodiXXX</a>,<br />
+            
 
             the easy-to-use app development platform.
           </p>
