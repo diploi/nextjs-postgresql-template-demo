@@ -59,7 +59,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Diploi Next.js To-Dd App</title>
+        <title>Diploi Next.js To-Do App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -86,9 +86,7 @@ const Home: NextPage = () => {
         <footer className={styles.footer}>
           <p>
             You are looking at a <a href="#">Next.js To-Do example</a> for{' '}
-            <a href="https://diploi.dev">DiplodiXXX</a>,<br />
-            
-
+            <a href="https://diploi.dev">Diploi</a>,<br />
             the easy-to-use app development platform.
           </p>
         </footer>
